@@ -1,0 +1,51 @@
+PODS:
+  - AFNetworking (3.1.0):
+    - AFNetworking/NSURLSession (= 3.1.0)
+    - AFNetworking/Reachability (= 3.1.0)
+    - AFNetworking/Security (= 3.1.0)
+    - AFNetworking/Serialization (= 3.1.0)
+    - AFNetworking/UIKit (= 3.1.0)
+  - AFNetworking/NSURLSession (3.1.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.1.0)
+  - AFNetworking/Security (3.1.0)
+  - AFNetworking/Serialization (3.1.0)
+  - AFNetworking/UIKit (3.1.0):
+    - AFNetworking/NSURLSession
+  - Alamofire (4.8.0)
+  - CodableAlamofire (1.1.0):
+    - Alamofire (~> 4.0)
+  - Kingfisher (4.10.1)
+  - MBProgressHUD (1.0.0)
+  - SwiftLint (0.18.1)
+
+DEPENDENCIES:
+  - AFNetworking
+  - Alamofire (~> 4.5)
+  - CodableAlamofire
+  - Kingfisher (~> 4.0)
+  - MBProgressHUD
+  - SwiftLint
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AFNetworking
+    - Alamofire
+    - CodableAlamofire
+    - Kingfisher
+    - MBProgressHUD
+    - SwiftLint
+
+SPEC CHECKSUMS:
+  AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  Alamofire: 3ec537f71edc9804815215393ae2b1a8ea33a844
+  CodableAlamofire: e2d2edcec7cf413f7862c30c8fa98eded27a83f9
+  Kingfisher: c148cd7b47ebde9989f6bc7c27dcaa79d81279a0
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+  SwiftLint: b467d08f5b25dc3b3cfed243d8e1b74b91714c67
+
+PODFILE CHECKSUM: 139e89ea6093becbcaaf5d7cad53a71157c44d0c
+
+COCOAPODS: 1.5.3
