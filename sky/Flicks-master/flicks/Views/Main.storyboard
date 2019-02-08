@@ -22,7 +22,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" red="0.0" green="0.099361516499999997" blue="0.079721422520000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <color key="separatorColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
-                                <searchBar key="tableHeaderView" contentMode="redraw" placeholder="Find your favorite movie..." id="HLd-5k-QQZ">
+                                <searchBar key="tableHeaderView" contentMode="redraw" placeholder="Encontre seu filme favorito.." id="HLd-5k-QQZ">
                                     <rect key="frame" x="0.0" y="0.0" width="375" height="44"/>
                                     <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
                                     <color key="backgroundColor" red="0.11742544420000001" green="0.11742544420000001" blue="0.11742544420000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
